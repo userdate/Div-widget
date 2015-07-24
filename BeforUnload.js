@@ -3,6 +3,7 @@
  * @author 	Div_wang (gh110827@gmail.com)
  * @date    2015-06-23 13:10:38
  * @version 0.2.0
+ * zhijiansha到此一游
  */
 
 //刷新或关闭网页提示
